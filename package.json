@@ -1,0 +1,35 @@
+{
+  "name": "mean-stack-learning",
+  "version": "1.0.0",
+  "description": "MEAN Stack with angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saleemashraf4/MEAN-stack-with-angular-2-learning.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK",
+    "ANGIULAR",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[CWITH",
+    "ANGULAR",
+    "2"
+  ],
+  "author": "SALEEM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saleemashraf4/MEAN-stack-with-angular-2-learning/issues"
+  },
+  "homepage": "https://github.com/saleemashraf4/MEAN-stack-with-angular-2-learning#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6",
+    "moongoose": "0.0.5"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.7.1"
+  }
+}
